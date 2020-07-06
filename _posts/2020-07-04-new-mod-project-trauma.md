@@ -32,3 +32,6 @@ From the [CurseForge][] page:
 >    2. Injuries do not go away on their own, but sleeping through the night will heal one.
 
 The original was made with [Forge][], which, while it worked, had to necessarily be limited in certain features due to the need to comply with Forge's general ideology. This version is instead made with [Fabric][], which is an extremely interesting project that I absolutely attribute the technical successes of this mod to. I have a lots of thoughts about Fabric and it's role in the evolving modding community, but that is a topic worthy of it's own post.
+
+[Forge]: https://minecraftforge.net
+[Fabric]: https://fabricmc.net
